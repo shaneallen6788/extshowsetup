@@ -3,7 +3,6 @@
 192.168.188.1 Wireless Extender Setup Guide (Step-by-Step)
 ===========================================================
 
-
 .. raw:: html
 
     <a href="http://192.168.188.1" style="
@@ -11,6 +10,10 @@
         padding: 10px 20px;
         background-color: #007bff;
         color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+    ">Login to 192.168.188.1</a>
 
 Setting up your wireless range extender through the IP address ``192.168.188.1`` can help eliminate Wi-Fi dead zones and improve network coverage across your home or office. This guide will walk you through the complete setup process using a browser interface.
 
@@ -173,9 +176,3 @@ Conclusion
 ----------
 
 Setting up your wireless extender via ``192.168.188.1`` is simple and can dramatically improve your network coverage. Follow this guide carefully, and you’ll eliminate Wi-Fi dead zones in minutes.
-
-        text-decoration: none;
-        border-radius: 5px;
-        font-weight: bold;
-    ">Login to 192.168.188.1</a>
-
